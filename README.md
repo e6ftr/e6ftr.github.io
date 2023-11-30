@@ -1,49 +1,29 @@
-# Our Lady of Peñafrancia Church
-![Facade](https://1.bp.blogspot.com/-
-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "Church Facade")
-*Our Lady of Peñafrancia Church Facade*
+# Porsche911 GT2-RS
+![Facade](https://www.topgear.com/sites/default/files/images/cars-road-test/2017/11/0f7d2d2c0e94ef49463baa1ab34a5e82/rp_-_porsche_911_gt2rs_silverstone-41.jpg)
+*Picture above show's th Porsche GT2RS in silver*
 
-Our Lady of Peñafrancia Shrine is a Roman Catholic church in the Philippines, located in Naga City. It is
-under the jurisdiction of the Archdiocese of Caceres. The church was formerly the home of the image of
-Our Lady of Peñafrancia, before the Peñafrancia Basilica was constructed. Our Lady of Peñafrancia is one
-of East Asia's greatest sites of Christian pilgrimage.
+The Porsche 911 GT2 is a high-performance, track-focused sports car built by the German automobile manufacturer Porsche from 1993 to 2009, and then since 2010 as the GT2 RS. It is based on the 911 Turbo, and uses a similar twin-turbocharged engine, but features numerous upgrades, including engine enhancements, larger brakes, and stiffer suspension calibration.
 
-The parish church is also the location of the Plaza Miguel Robles de Covarrubias, where the Traslacion
-procession of Our Lady of Peñafrancia begins, opening the Peñafrancia Festival.
+The GT2 is significantly lighter than the Turbo due to its use of rear-wheel-drive instead of all-wheel-drive system and the reduction or removal of interior components. As a result, the GT2 (now GT2 RS) is the most expensive and fastest model among the 911 lineup.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2vcnN4rPsM4?si=KIhOkItmcZMQt8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-*Clip: History of the Lady of Penafrancia*
+# Overview
+Manufacturer:	*Porsche*
+Production:	*1993–2019*
+Assembly:	Germany - *Stuttgart, Baden-Württemberg*
 
-### Schedule of Masses
+# Designers	
+*Pinky Lai*
+*Harm Lagaay*
+*Michael Mauer*
 
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-|--------|--------|---------|-----------|----------|--------|----------|
-| 5:0 0am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
-| 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am |
-| | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am |
-| 7:30 am | | | | | | |
-| 9:00 am | | | | | | |
-| 11:00 am | | | | | | |
-| 5:00 am | | | | | | |
-| | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm |
-| 6:00 pm | | | | | | |
-| 7:00 pm | | | | | | |
+# Body and chassis
+*Class	Sports car (S)*
+*Body style	2-door coupé*
+*Layout	Rear-engine, rear-wheel-drive*
 
-### Peñafrancia Festival
-![Voya](https://3.bp.blogspot.com/-
-N6RqGC7rpAk/V9D1kgLqXxI/AAAAAAAAKuQ/n0OT558YnpwF_V2effbivpxt7lXCq4XBwCLcB/s1600/20150
-919-penafrancia-naga-ads.jpg)
-Peñafrancia Festival is regarded as the biggest religious celebration in honor of the Blessed Virgin Mary
-in Asia. A month-long celebration, it is an annual cultural and religious festival held in honor of Our Lady
-of Peñafrancia. It is held every third Sunday of September in Naga City, Camarines Sur, Philippines.
-----
+# Related/Relations	
+*Porsche 911 GT3*
+*Porsche 911 Turbo*
 
-### Address and Contact Info:
- **Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines**
-&nbsp; &nbsp; &nbsp; &nbsp;Address
-
- **63 946 333 2500**
-&nbsp; &nbsp; &nbsp; &nbsp;Mobile
-
- **olpparish310@gmail.com**
-&nbsp; &nbsp; &nbsp; &nbsp;Email
+<iframe width="560" height="315" src="[https://www.youtube.com/watch?app=desktop&v=WFHbnglmeUA]" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*Clip: Record on the Nurburgring Nordschleife with the said car*
