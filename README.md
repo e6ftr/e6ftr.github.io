@@ -25,6 +25,6 @@ Assembly:	Germany - *Stuttgart, Baden-Württemberg*
 *Porsche 911 GT3*
 *Porsche 911 Turbo*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/turMRRCE6fU?modestbranding=1"></iframe>
+<div style="position: relative; height: 0; overflow: hidden; padding-bottom: 56.25%; /* 16/9 ratio */ border-style: none;"><iframe style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/turMRRCE6fU?modestbranding=1"></iframe></div>
 
 *Clip: Record on the Nurburgring Nordschleife with the said car*
